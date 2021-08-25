@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#332943",
+        "titleBar.activeBackground": "#48395D",
+        "titleBar.activeForeground": "#FCFCFD"
+    },
+}
